@@ -9,7 +9,7 @@ function App() {
   
   return (
     <ThemeProvider theme={theme}>
-      <Box bgcolor="primary.light" style={{height: "100vh"}}>
+      <Box bgcolor="primary.light" style={{height: "100%"}}>
         <Container maxWidth='md'>
           <Grid container direction="column" spacing={2}>
             <CssBaseline />
