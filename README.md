@@ -13,6 +13,7 @@ Used materialui for styling.
 
 ## Known bugs
 * Edit button takes two clicks to work
+* Dropdowns don't start at cursor
 
 
 ## Photo
