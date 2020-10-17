@@ -7,9 +7,12 @@ My first React app! It's a simple CV-generator similar to Linkedin's profile pag
 Users can add their personal info, education info, and their relevant job experience. 
 
 Used materialui for styling.
+## Goals of project
+* Main goal: Learn react & working with state
+* Secondary goal: Learn how materialui works
 
 ## Known bugs
-For some reason the edit button takes two clicks to open sometimes. Not sure why. 
+* Edit button takes two clicks to work
 
 
 ## Photo
