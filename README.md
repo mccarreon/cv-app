@@ -10,3 +10,7 @@ Used materialui for styling.
 
 ## Known bugs
 For some reason the edit button takes two clicks to open sometimes. Not sure why. 
+
+
+## Photo
+![Photo of app](imgs/react-app.png)
