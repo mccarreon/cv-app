@@ -8,7 +8,7 @@ function ExperienceContainer() {
     const [showRemove, updateShowRemove] = useState(false)
     const [jobToAdd, updateJobToAdd] = useState({})
     const [jobData, updateJobData] = useState([{
-        companyName: "Sensiba San Filippo",
+        companyName: "SSF",
         jobTitle: "Full Stack Engineer",
         startYear: "2020",
         endYear: "Present",
